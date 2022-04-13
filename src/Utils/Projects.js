@@ -9,13 +9,13 @@ export const projects = [
 		gitHub: 'https://github.com/Danisk43/MyntraHerokuNetlify',
 		technologies: ['HTML','CSS','javaScript',"React","Redux"],
 	},
-	// {
-	// 	img: 'https://github.com/AvdheshPal/Pull-Bear/raw/main/image.gif',
-	// 	title: 'Pull & Bear Shopping Website Clone',
-	// 	des: 'This is a static clone of a Pull&Bear which is a Spanish clothing and accessories retailer.',
-	// 	demo: '',
-	// 	live: 'http://pull-bear-avdheshpal.vercel.app/',
-	// 	gitHub: 'https://github.com/AvdheshPal/Pull-Bear',
-	// 	technologies: ['HTML', 'CSS', 'javaScript','LocalStorage'],
-	// },
+	{
+		img: 'https://i.ibb.co/b6YdVv5/sai-Solutions-homepage.png',
+		title: 'Sai Solution(a complete stop for all your interior needs) construction company website',
+		des: 'This is a website for construction company built with collaboration with Kanhaiya Suthar',
+		demo: '',
+		live: 'https://saisolutions.netlify.app/',
+		gitHub: 'https://github.com/Danisk43/saisolutions',
+		technologies: ['HTML', 'CSS', 'javaScript','React','lazy load','material ui','bootstrap'],
+	},
 ];
